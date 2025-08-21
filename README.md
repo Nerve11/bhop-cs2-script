@@ -59,9 +59,9 @@ Your app has been significantly improved with a focus on visual design, optimiza
 
 ```
 C:\bhop-cs2\
-,── gui.py # GUI with animations
+├── gui.py # GUI with animations
 ├── main.py # Main Module
-,── scroller_new.py # Scroller
+├── scroller.py # Scroller
 ├── config.json # Settings file (created automatically)
 README.md ``
 
