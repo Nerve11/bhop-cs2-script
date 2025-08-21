@@ -4,7 +4,7 @@ import logging
 from PyQt6.QtWidgets import QApplication, QMessageBox
 from PyQt6.QtCore import QObject, pyqtSignal, QTimer
 from gui import BhopAppGUI
-from scroller_new import AdvancedScroller
+from scroller import AdvancedScroller
 
 # Configure logging
 logging.basicConfig(
